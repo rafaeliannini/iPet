@@ -7,20 +7,16 @@ https://ipet2.netlify.app
 
 ## Alunos integrantes da equipe
 
-* Amin Ayad Morais Zorkot
-* Eduardo Regis Orrico Ferretti Martins
-* Gabriel Rocha Alves
-* João Pedro Gomes Machado
-* Rafael Soares Iannini
-* Raphael Rezende Santos
-* Victor Stransky Cheib Sena
 
+* Rafael Soares Iannini
+* Victor Stransky Cheib Sena
+* Gabriel Dias
+* Isabela
 
 ## Professores responsáveis
 
-* Hayala Nepomuceno Curto
-* Carolina Stephanie Jerônimo de Almeida
-* Cristiano Neves Rodrigues
+* Max Do Val
+* Luciana
 
 ## Instruções de utilização
 
